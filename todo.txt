@@ -27,6 +27,7 @@ if tcp not encrypted within 2 seconds, close it
 gpio stuff can be done without driver stuff??
 make sendbuffer before encrypt more automatic instead of +2x0x18
 
+..
 Doing
 -----
 HacK: make a mdns routine that really builds the message
